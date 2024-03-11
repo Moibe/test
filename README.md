@@ -58,3 +58,6 @@ En caso de elegir la opción 1, ahora deberás elegir la lista para subir:
 El programa preparará los archivos, y listo, los subirá de forma automática a todoist con las credenciales previamente establecidas en el archivo config.py (para pruebas puedes usar la cuenta moibe.sun.tokyo@gmail.com que ya viene preconfigurada).
 
 ![alt text](trello2todoist.gif)
+
+Video: 
+![alt text](trello2todoist.mp4)
